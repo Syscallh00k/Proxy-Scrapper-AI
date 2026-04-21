@@ -200,6 +200,11 @@ These values can be adjusted at the top of the verification section in the scrip
 
 This tool is provided for educational and research purposes. Free public proxies are inherently unreliable and should not be used for anything sensitive. The author is not responsible for how scraped proxies are used. Always respect the terms of service of the sources and any applicable laws.
 
+
+## Author
+
+**legend**
+
 ## License
 
 MIT
