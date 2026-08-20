@@ -152,7 +152,7 @@ This tool is provided for educational and research purposes. Free public proxies
 
 ## Author
 
-**legend**
+**Websites Scrapped & Scrapper Setup - legend | General code - Claude <3**
 
 ## License
 
